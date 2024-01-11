@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'AVBeheer.ceh',
+    description: 'Workspace for Ethical Hacking.',
+    icon: 'https://www.avbeheer.com/wp-content/uploads/2024/01/background-127001-av.png',
+    listUrl: 'https://avbeheer.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/avbeheer/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
